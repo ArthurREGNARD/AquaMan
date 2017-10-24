@@ -1,0 +1,11 @@
+
+# Compile File. 
+*.o
+*.d
+*.log
+
+#Ignore Folder. 
+LedRampe/src/build-*/
+LedRampe/src/build-*/*/*/*
+
+LedRampe/doc/tmp/*

@@ -1,0 +1,26 @@
+@startuml
+skinparam class {
+    BackgroundColor #e6e6e6
+    ArrowColor #0047b3
+    FontColor #0047b3
+    BorderColor Gray
+}
+skinparam state {
+    BackgroundColor #e6e6e6
+    ArrowColor #0047b3
+    FontColor #0047b3
+    BorderColor Gray
+}
+skinparam object {
+    BackgroundColor #e6e6e6
+    ArrowColor #0047b3
+    FontColor #0047b3
+    BorderColor Gray
+}
+skinparam stereotypeCBackgroundColor #ffff00
+skinparam note {
+    BackgroundColor #ffff00
+    BorderColor Gray
+    FontColor Black
+}
+@enduml

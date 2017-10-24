@@ -1,0 +1,29 @@
+@startuml
+    
+    !include setUpColor.txt
+
+    class Pilot{
+
+    }
+
+    class Mesure{
+
+    }
+
+    class Historian{
+
+    }
+
+    class Communicate{
+
+    }
+
+    class UserInterface{
+
+    }
+
+    class Controller{
+    
+    }
+
+@enduml
